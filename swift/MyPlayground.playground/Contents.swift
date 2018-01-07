@@ -14,3 +14,9 @@ var x = 3;
 print(x*4);
 x = 10;
 print(x*4);
+
+//定数
+let tax = 1.08;
+print(100*tax);
+
+
